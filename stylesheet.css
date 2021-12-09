@@ -1,0 +1,24 @@
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.content {
+    font-family: monospace;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color:#93e9be
+}
+
+a:hover {
+    color:#ff00ff
+}
+
+a:active {
+    color:darkblue
+}
